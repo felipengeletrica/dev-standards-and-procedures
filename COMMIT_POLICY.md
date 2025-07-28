@@ -128,4 +128,4 @@ If you are unsure, **prefer being conservative** — mark as `[SAFETY]` when it 
 ---
 
 **Document History**
-- v1.0 — 2024-07-26 — Initial policy by ChatGPT for Felipe Vargas / SmartCloudAge
+- v1.0 — 2024-07-26 — Initial policy by Felipe Vargas / SmartCloudAge
